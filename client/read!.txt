@@ -1,0 +1,3 @@
+The name 'client' for this folder didnt really make much sense to me.
+What this folder actually looks like to me, is the resource that an 
+outsider client would actually access.
